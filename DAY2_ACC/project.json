@@ -1,11 +1,11 @@
 {
-  "name": "DAY2_JPMC",
+  "name": "DAY2_ACC",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.10.4]",
     "UiPath.Mail.Activities": "[1.10.5]",
-    "UiPath.Python.Activities": "[1.4.1]",
+    "UiPath.PDF.Activities": "[3.4.0]",
     "UiPath.System.Activities": "[21.4.1]",
     "UiPath.UIAutomation.Activities": "[21.4.4]",
     "UiPath.WebAPI.Activities": "[1.9.0-preview]"
@@ -45,7 +45,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "802a0ee7-a76d-4f5d-ac1d-224409bb27ea",
+      "uniqueId": "7cedb1e1-55a8-4b5c-abb7-c61dc1b8da13",
       "input": [],
       "output": []
     }
