@@ -1,14 +1,12 @@
 {
-  "name": "DAY2_ACC",
+  "name": "Tet565",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.10.4]",
     "UiPath.Mail.Activities": "[1.10.5]",
-    "UiPath.PDF.Activities": "[3.4.0]",
     "UiPath.System.Activities": "[21.4.1]",
-    "UiPath.UIAutomation.Activities": "[21.4.4]",
-    "UiPath.WebAPI.Activities": "[1.9.0-preview]"
+    "UiPath.UIAutomation.Activities": "[21.4.4]"
   },
   "webServices": [],
   "entitiesStores": [],
@@ -45,7 +43,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "7cedb1e1-55a8-4b5c-abb7-c61dc1b8da13",
+      "uniqueId": "23e3cc16-6a3a-41aa-808d-9223a817b04b",
       "input": [],
       "output": []
     }
